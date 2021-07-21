@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.jiweinterviewwahome",
+	"appName": "jiweinterviewwahome",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"cordova": {}
+}

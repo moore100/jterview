@@ -1,0 +1,11 @@
+export { default as Navi } from "./navigation";
+export { default as Home } from "./home";
+export { default as Teams } from "./teams";
+export { default as Games } from "./games";
+export { default as GameList } from "./jiwecoms";
+export { default as TeamLists } from "./jiwecoms";
+export { default as GameForm } from "./addgame";
+export { default as Tagsli } from "./tags";
+export { default as Search } from "./search";
+export { default as GameSearch  } from "./gamessearch";
+export { default as Comments } from "./comments"
