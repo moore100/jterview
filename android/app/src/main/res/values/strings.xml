@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">jiweinterviewwahome</string>
     <string name="title_activity_main">jiweinterviewwahome</string>
-    <string name="package_name">io.ionic.jiweinterviewwahome</string>
-    <string name="custom_url_scheme">io.ionic.jiweinterviewwahome</string>
+    <string name="package_name">io.ionic.jiweapp</string>
+    <string name="custom_url_scheme">io.ionic.jiweapp</string>
 </resources>

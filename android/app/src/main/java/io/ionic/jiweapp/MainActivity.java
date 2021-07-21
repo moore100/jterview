@@ -1,4 +1,4 @@
-package io.ionic.jiweinterviewwahome;
+package io.ionic.jiweapp;
 
 import com.getcapacitor.BridgeActivity;
 

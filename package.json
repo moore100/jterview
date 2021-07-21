@@ -22,7 +22,8 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "shards-react": "^1.0.3",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "homepage":"https://moore100.github.io/jiweinterviews/"
   },
   "scripts": {
     "predeploy":"npm run build",
@@ -32,8 +33,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://moore100.github.io/jiweinterviews/",
-
   "eslintConfig": {
     "extends": [
       "react-app",
